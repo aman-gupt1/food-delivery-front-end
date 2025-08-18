@@ -1,0 +1,52 @@
+[
+    {
+      "id":1,
+      "name":"Veg Burger" ,
+      "price":"$9.67",
+      "image":"images/burger.png"
+      
+    },
+    {
+      "id":2 ,
+      "name":"Veggie Pizza" ,
+      "price":"$10.99",
+      "image":"images/pizza.png"
+    }, 
+     {
+      "id":3,
+      "name":"Noodles" ,
+      "price":"$13.45",
+      "image":"images/noodles.png"
+    },
+
+     {
+      "id":4,
+      "name":"Pavbhaji" ,
+      "price":"$20",
+      "image":"images/pavbhaji.png"
+    },
+     {
+      "id":5,
+      "name":"SevPuri" ,
+      "price":"$6.99",
+      "image":"images/sevpuri.png"
+    },
+     {
+      "id":6,
+      "name":"Momos" ,
+      "price":"$17",
+      "image":"images/momos.png"
+    },
+     {
+      "id":7,
+      "name":"Itallian Spaghetti" ,
+      "price":"$7.65",
+      "image":"images/spaghetti.png"
+    },
+     {
+      "id":8,
+      "name":"Spring Roll" ,
+      "price":"$9.31",
+      "image":"images/spring-roll.png"
+    }
+]
