@@ -79,7 +79,7 @@ Simply open `index.html` in your browser.
 Add your deployed website link here:
 
 ```bash id="pjlwm4"
-https://your-live-demo-link.com
+https://foodcart-system.netlify.app/
 ```
 
 ---
